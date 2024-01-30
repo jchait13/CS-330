@@ -46,7 +46,7 @@ R has built in R Strings, R Vectors, R Matrix, R, List, R Arrays, R Data Frame, 
 \
 \
 Sources: \
-W3 Schools R Tutorial - https://www.w3schools.com/r/r_data_types.asp
-Introduction to R Source Manual - https://cran.r-project.org/doc/manuals/r-release/R-intro.pdf
+W3 Schools R Tutorial - https://www.w3schools.com/r/r_data_types.asp \
+Introduction to R Source Manual - https://cran.r-project.org/doc/manuals/r-release/R-intro.pdf \
 R: A Language and Environment for Statistical Computing - https://cran.r-project.org/doc/manuals/r-release/fullrefman.pdf
 
