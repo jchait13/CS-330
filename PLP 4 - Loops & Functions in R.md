@@ -47,5 +47,8 @@ about here, but that are important to know in order to write one? What are they?
 A function must be called with the correct number of arguments that are specified in the function. No more, no less. You can set a default arguments for cases where you may not have an argument to pass in. 
 
 <h3>Sources</h3>
-[Loops in R (for, while, repeat)](https://www.geeksforgeeks.org/loops-in-r-for-while-repeat/)
+- Loops in R (for, while, repeat) https://www.geeksforgeeks.org/loops-in-r-for-while-repeat/
+
+- R Functions https://www.w3schools.com/r/r_functions.asp
+
 
