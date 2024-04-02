@@ -1,0 +1,29 @@
+What I hoped to accomplish:
+My goal for this week was to clean all the data to be used in my book
+recommendation engine including:
+• Loading the dataset into R
+• Choosing comparison metrics
+• Removing unnecessary fields
+• Splitting the data into the appropriate data frames
+
+What I did accomplish:
+The data is cleaned and ready to perform calculation for difference
+and similarity. The overall process went faster than I anticipated but
+I struggled with installing some of the packages needed for the
+project (mostly – tidyverse) but loading the data into R was a quick
+process once the packages were straightened out.
+
+Subsetting the data into usable records took longer than I expected.
+The dataset contains information for books that do not have any
+ratings and therefore, there is not an overall rating. The item based
+model is built on an analysis of the ratings and the genres, so the
+incomplete records need to be removed to free up computing power.
+
+What I hope to accomplish for next week:
+
+For next week, I will be focusing on getting the item-product matrix
+running. The math is straightforward but working on getting the
+identification values mapped to the book titles will take a bit of
+time and research. This matrix is the bulk of the project, so getting
+it working by next week will allow for appropriate time to work on the
+user interactive features and GUI.
