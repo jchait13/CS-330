@@ -1,0 +1,17 @@
+What I hoped to accomplish:
+My goal for this week was to get the item similarity matrix up and running.
+
+What I did accomplish:
+The matrix is coded and it runs. I do have some bugs to work out with information not mapping
+to the correct data points, which can effect the overall recommendations but only marginally.
+Since the program uses mutltiple data points to make recommendations, the small errors have some
+but little effect on the overall program. 
+
+I had hoped to get more accomplished this week but RStudio had other plans. My version of R is
+throwing a critical error on startup and will not run code. Thankfully, I did not lose all of the code
+I wrote but I do have to uninstall and reinstall R and all the necessary packages before I can
+run/expand the code that I have.
+
+What I hope to accomplish for next week:
+
+For next week, I will be focusing on fixing RStudio, coding the user input sections and coding the GUI
